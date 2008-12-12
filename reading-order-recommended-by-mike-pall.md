@@ -1,4 +1,5 @@
 Recommended reading order
+=========================
 
  1. lmathlib.c, lstrlib.c
    
@@ -27,7 +28,7 @@ Recommended reading order
 
  6. lvm.c
 
-    Scroll down to luaV_execute, the main interpreter loop. See how
+    Scroll down to `luaV_execute`, the main interpreter loop. See how
     all of the instructions are implemented. Skip the details for
     now. Reread later.
 
